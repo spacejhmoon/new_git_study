@@ -1,1 +1,1 @@
-# new_git_study 웨옹
+# new_git_study 수정
